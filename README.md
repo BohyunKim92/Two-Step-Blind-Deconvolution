@@ -6,4 +6,8 @@ Mathematics Series, vol 26. Springer, Cham. https://doi.org/10.1007/978-3-030-79
 
 ## Code for real data experiment
 ー Code for real data experiment is stored in "realDataSim".
+ー Code for low blur real data experiment is stored in "code>real_data_exp_low_blur.m". You can run the .m file.
+ー Barcode images used in real experiment is stored in "barocde_images"
+ー All the helper functions are stored in "helper_functions"
+
 
